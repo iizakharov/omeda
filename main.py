@@ -1,7 +1,7 @@
 import requests
 import os
 
-proxy  = "http://10.50.1.27:8888"
+proxy  = ""
 
 
 proxies = {
